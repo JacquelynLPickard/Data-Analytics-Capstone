@@ -130,7 +130,7 @@ All visualizations are in `/visuals/` and embedded in the Jupyter Notebook. Each
 | `06_volatility_heatmap.png` | Year × Month heatmap of price volatility |
 
 ### Tableau Dashboard
-🔗 [View Interactive Dashboard on Tableau Public](#) *(link added after publishing)*
+🔗 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/jacquelyn.l.pickard/viz/FuelCostTruckingCapstone/U_S_NationalDieselPriceTrend)
 
 ---
 
