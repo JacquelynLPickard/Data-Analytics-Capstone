@@ -1,7 +1,7 @@
 # ⛽ Fueling the Bottom Line
 ## How Diesel Price Volatility Impacts Trucking Operations & Profitability
 
-**Google Data Analytics Professional Certificate — Capstone Project**
+**Google Data Analytics Professional Certificate Capstone Project**
 **Author:** Jacquelyn L Pickard
 **Date:** June 2026
 **Tools Used:** Python · SQL · Excel/Google Sheets · Tableau
@@ -16,7 +16,7 @@ This capstone project applies the full **Google Data Analytics framework (Ask �
 
 > *"How does diesel price volatility affect trucking operational costs, and what patterns can help logistics companies better plan for fuel-driven financial risk?"*
 
-This project is designed to be understood by both technical and non-technical audiences. Every chart and visual includes a plain-language explanation of what it shows and why it matters.
+This project is designed to be understood by both technical and non-technical audiences. Every chart and visual includes a plain language explanation of what it shows and why it matters.
 
 ---
 
@@ -71,9 +71,9 @@ This project is designed to be understood by both technical and non-technical au
 ## 🧹 Phase 3: Process
 
 ### Tools Used
-- **Google Sheets** — Initial data inspection, formatting checks, pivot tables
-- **SQL (SQLite)** — Joining datasets, filtering, aggregating by region and time period
-- **Python (Pandas)** — Data cleaning, null handling, date parsing, derived columns
+- **Google Sheets**: Initial data inspection, formatting checks, pivot tables
+- **SQL (SQLite)**: Joining datasets, filtering, aggregating by region and time period
+- **Python (Pandas)**: Data cleaning, null handling, date parsing, derived columns
 
 ### Cleaning Steps Performed
 1. Removed rows with missing price values (< 2% of records)
@@ -97,16 +97,16 @@ All cleaning decisions are logged in the Jupyter Notebook (`notebooks/capstone_n
 
 > *(Full analysis with visualizations is in the Jupyter Notebook)*
 
-**Finding 1 — Diesel prices show strong seasonality**
+**Finding 1: Diesel prices show strong seasonality**
 Prices reliably rise in spring (March–May) ahead of peak driving season and fall in late fall/winter. Fleets that lock in fuel hedges in Q4 have historically benefited.
 
-**Finding 2 — Regional price disparity is significant**
+**Finding 2: Regional price disparity is significant**
 The West Coast consistently pays 20–40¢/gallon more than the Gulf Coast. For carriers running cross-country lanes, this creates predictable margin pressure on westbound loads.
 
-**Finding 3 — Fuel surcharges lag price increases**
+**Finding 3: Fuel surcharges lag price increases**
 Standard FSC tables (updated weekly) trail actual retail diesel changes by 1–2 weeks. During rapid price spikes, carriers absorb the gap before recovery.
 
-**Finding 4 — Price volatility clusters around macro events**
+**Finding 4: Price volatility clusters around macro events**
 The 2008 financial crisis, 2020 COVID crash, and 2022 Ukraine conflict each produced statistically abnormal price swings. Risk planning should account for these "black swan" periods.
 
 ---
@@ -117,7 +117,7 @@ The 2008 financial crisis, 2020 COVID crash, and 2022 Ukraine conflict each prod
 
 All visualizations are in `/visuals/` and embedded in the Jupyter Notebook. Each visual includes:
 - A **title** describing what is shown
-- A **plain-language caption** explaining what it means for a non-technical reader
+- A **plain language caption** explaining what it means for a non-technical reader
 - A **"So what?"** callout explaining the business implication
 
 | Visual | Description |
@@ -143,7 +143,7 @@ Based on the data analysis, here are three actionable recommendations for a truc
 **1. Build a Seasonal Fuel Budget Model**
 Use historical seasonal patterns to create a Q1–Q4 fuel budget that anticipates spring price increases. Reserve 5–8% budget flexibility for Q2 (April–June) based on historical averages.
 
-**2. Review Fuel Surcharge Triggers Weekly — Not Monthly**
+**2. Review Fuel Surcharge Triggers Weekly; Not Monthly**
 FSC tables updated only monthly leave carriers exposed during rapid price run-ups. Switching to weekly FSC updates aligned to EIA's Monday release can reduce the lag-exposure window by up to 75%.
 
 **3. Benchmark Regional Lane Profitability Against Fuel Exposure**
