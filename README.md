@@ -10,7 +10,7 @@
 
 ## 📌 Project Overview
 
-Fuel is one of the largest controllable costs in the trucking and logistics industry, typically representing **25–40% of total operating expenses** for a fleet. When diesel prices spike, carriers face immediate margin compression — and when prices drop, the savings don't always reach the bottom line as quickly as the costs do.
+Fuel is one of the largest controllable costs in the trucking and logistics industry, typically representing **25–40% of total operating expenses** for a fleet. When diesel prices spike, carriers face immediate margin compression and when prices drop, the savings don't always reach the bottom line as quickly as the costs do.
 
 This capstone project applies the full **Google Data Analytics framework (Ask → Prepare → Process → Analyze → Share → Act)** to explore:
 
@@ -195,16 +195,16 @@ fuel-cost-trucking-capstone/
    jupyter notebook notebooks/capstone_notebook.ipynb
    ```
 
-5. Run all cells from top to bottom — the notebook will clean the data, run analysis, and generate all visuals.
+5. Run all cells from top to bottom; the notebook will clean the data, run analysis, and generate all visuals.
 
 ---
 
 ## 📚 References & Acknowledgments
 
-- U.S. Energy Information Administration (EIA) — [eia.gov](https://www.eia.gov)
-- American Transportation Research Institute (ATRI) — [atri-online.org](https://atri-online.org)
-- Google Data Analytics Professional Certificate — Coursera
-- DAT Freight & Analytics — [dat.com](https://www.dat.com)
+- U.S. Energy Information Administration (EIA) [eia.gov](https://www.eia.gov)
+- American Transportation Research Institute (ATRI) [atri-online.org](https://atri-online.org)
+- Google Data Analytics Professional Certificate Coursera
+- DAT Freight & Analytics [dat.com](https://www.dat.com)
 
 ---
 
