@@ -1,4 +1,4 @@
-# 📦 Data Sources
+# Data Sources
 
 This file documents every dataset used in the capstone project, including where to download it, what it contains, and how it was used.
 
