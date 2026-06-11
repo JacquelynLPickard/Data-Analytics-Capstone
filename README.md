@@ -1,4 +1,4 @@
-# ⛽ Fueling the Bottom Line
+# Fueling the Bottom Line
 ## How Diesel Price Volatility Impacts Trucking Operations & Profitability
 
 **Google Data Analytics Professional Certificate Capstone Project**
@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Fuel is one of the largest controllable costs in the trucking and logistics industry, typically representing **25–40% of total operating expenses** for a fleet. When diesel prices spike, carriers face immediate margin compression and when prices drop, the savings don't always reach the bottom line as quickly as the costs do.
 
@@ -20,7 +20,7 @@ This project is designed to be understood by both technical and non-technical au
 
 ---
 
-## ❓ Phase 1: Ask
+## Phase 1: Ask
 
 ### Business Questions
 1. How have diesel prices trended over the past 10+ years, and what events drove the biggest spikes?
@@ -44,7 +44,7 @@ This project is designed to be understood by both technical and non-technical au
 
 ---
 
-## 🗂️ Phase 2: Prepare
+## Phase 2: Prepare
 
 ### Data Sources
 
@@ -68,7 +68,7 @@ This project is designed to be understood by both technical and non-technical au
 
 ---
 
-## 🧹 Phase 3: Process
+## Phase 3: Process
 
 ### Tools Used
 - **Google Sheets**: Initial data inspection, formatting checks, pivot tables
@@ -91,7 +91,7 @@ All cleaning decisions are logged in the Jupyter Notebook (`notebooks/capstone_n
 
 ---
 
-## 📊 Phase 4: Analyze
+## Phase 4: Analyze
 
 ### Key Findings
 
@@ -111,7 +111,7 @@ The 2008 financial crisis, 2020 COVID crash, and 2022 Ukraine conflict each prod
 
 ---
 
-## 📈 Phase 5: Share
+## Phase 5: Share
 
 ### Visualizations
 
@@ -134,7 +134,7 @@ All visualizations are in `/visuals/` and embedded in the Jupyter Notebook. Each
 
 ---
 
-## 💡 Phase 6: Act
+## Phase 6: Act
 
 ### Recommendations
 
@@ -151,31 +151,31 @@ West Coast inbound lanes carry a structural $0.25–$0.40/gallon fuel cost premi
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 fuel-cost-trucking-capstone/
 │
-├── 📓 notebooks/
+├── notebooks/
 │   └── capstone_notebook.ipynb       ← Full analysis narrative (start here)
 │
-├── 📁 data/
+├── data/
 │   ├── raw/                          ← Original downloaded datasets (unmodified)
 │   └── cleaned/                      ← Processed, analysis-ready files
 │
-├── 📁 sql/
+├── sql/
 │   └── queries.sql                   ← All SQL queries, fully commented
 │
-├── 📁 visuals/
+├── visuals/
 │   └── *.png                         ← All charts and visualizations
 │
-├── 📄 README.md                      ← You are here
-└── 📄 data_sources.md                ← Dataset links and descriptions
+├── README.md                      ← You are here
+└── data_sources.md                ← Dataset links and descriptions
 ```
 
 ---
 
-## 🛠️ How to Run This Project
+## How to Run This Project
 
 1. **Clone the repo**
    ```bash
@@ -199,7 +199,7 @@ fuel-cost-trucking-capstone/
 
 ---
 
-## 📚 References & Acknowledgments
+## References & Acknowledgments
 
 - U.S. Energy Information Administration (EIA) [eia.gov](https://www.eia.gov)
 - American Transportation Research Institute (ATRI) [atri-online.org](https://atri-online.org)
@@ -208,7 +208,7 @@ fuel-cost-trucking-capstone/
 
 ---
 
-## 📬 Contact
+## Contact
 
 **Jacquelyn L Pickard**
 (https://www.linkedin.com/in/jacquelyn-l-pickard-0b9a763aa/)
